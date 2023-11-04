@@ -1,5 +1,3 @@
-# LimpandoDBLivros
-
 # Biblioteca Virtual
 Este é um projeto de uma biblioteca virtual desenvolvida em SQL, onde os livros são armazenados em um banco de dados. O objetivo principal é demonstrar boas práticas de modelagem de dados e normalização de um banco de dados.
 
