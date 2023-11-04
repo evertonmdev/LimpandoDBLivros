@@ -1,6 +1,9 @@
 # Biblioteca Virtual
 Este é um projeto de uma biblioteca virtual desenvolvida em SQL, onde os livros são armazenados em um banco de dados. O objetivo principal é demonstrar boas práticas de modelagem de dados e normalização de um banco de dados.
 
+## Objetivo do Projeto
+O banco de dados inicial foi entregue em um estado desorganizado, com informações misturadas e estrutura não otimizada. O propósito deste projeto foi realizar a reestruturação e normalização do banco de dados, seguindo boas práticas de modelagem e SQL limpo.
+
 ## Estrutura do Banco de Dados
 O banco de dados foi estruturado da seguinte forma:
 
